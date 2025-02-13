@@ -1,0 +1,176 @@
+prompt,intent
+Can I reserve a table for two people at 7 PM tomorrow?,BookTable
+I would like to book a table for six at your rooftop section this Saturday.,BookTable
+Please book a spot for three for lunch on Friday at 1 PM.,BookTable
+Can you reserve a table for a family of five for dinner at 8 PM tonight?,BookTable
+We need a reservation for eight people for a celebration this Sunday at 6 PM.,BookTable
+Can you schedule a table for a date night for two at 7 PM next Friday?,BookTable
+Can I book a private dining area for ten guests this Wednesday at 8 PM?,BookTable
+Reserve a table by the window for four for dinner at 7:30 PM tonight.,BookTable
+Please book a table for a small group of six for brunch this weekend.,BookTable
+I want to reserve a table for two with a view of the garden at 6 PM.,BookTable
+Could you schedule a dinner table for two people tomorrow night?,BookTable
+Please confirm a table for ten in your VIP lounge this Saturday at 8 PM.,BookTable
+We need a quiet table for six for a business meeting at 12 PM on Thursday.,BookTable
+Can I reserve an outdoor table for three on Sunday at 7 PM?,BookTable
+Can you book a table for my anniversary dinner at 8 PM on Monday?,BookTable
+Reserve a corner table for four this Saturday at 7 PM.,BookTable
+I want a reservation for two with a special request for vegan options.,BookTable
+Can you schedule a birthday dinner for six at 7 PM next Wednesday?,BookTable
+Please book a table for three for high tea on Friday at 3 PM.,BookTable
+Can I have a table for a family of four for breakfast at 9 AM tomorrow?,BookTable
+Can you reserve a table for two for our monthly dinner date at 7 PM?,BookTable
+Book a table for a surprise proposal dinner for two this weekend at 6 PM.,BookTable
+Schedule a brunch table for eight this Sunday at 11 AM.,BookTable
+Reserve a booth for four for lunch tomorrow at 1 PM.,BookTable
+We need a dinner table for five ?,BookTable
+Can you provide me with the address of the restaurant?,AskLocationDetails
+Is your restaurant located near any public transport facilities?,AskLocationDetails
+Where exactly is the rooftop section located?,AskLocationDetails
+Can you give me directions to the restaurant?,AskLocationDetails
+Is there parking available at the restaurant?,AskLocationDetails
+What is the nearest landmark to your restaurant?,AskLocationDetails
+Do you offer valet parking services?,AskLocationDetails
+How far is the restaurant from the city center?,AskLocationDetails
+Is there any metro station close to your location?,AskLocationDetails
+Can you confirm the location for your outdoor seating?,AskLocationDetails
+Is the restaurant accessible for wheelchairs?,AskLocationDetails
+Do you have a map of the restaurant layout?,AskLocationDetails
+Are there any famous attractions near your restaurant?,AskLocationDetails
+What is the easiest route to reach your restaurant?,AskLocationDetails
+Do you offer pick-up services for guests?,AskLocationDetails
+Is there a bicycle parking area near the restaurant?,AskLocationDetails
+Can you send me the GPS coordinates for your location?,AskLocationDetails
+What is the best way to reach the restaurant from the airport?,AskLocationDetails
+Is your restaurant located inside a mall or stand-alone?,AskLocationDetails
+Can you provide walking directions from the nearest bus stop?,AskLocationDetails
+Are there signs leading to the restaurant from the main road?,AskLocationDetails
+What is the distance to your restaurant from the train station?,AskLocationDetails
+Do you have a shuttle service for group bookings?,AskLocationDetails
+Can I find your location on popular map applications?,AskLocationDetails
+What is the street name and number of your restaurant?,AskLocationDetails
+Can you send me a copy of the menu?,AskMenuDetails
+Do you have any special dishes for the day?,AskMenuDetails
+Are there any vegan options on the menu?,AskMenuDetails
+Do you serve gluten-free meals?,AskMenuDetails
+What is the most popular dish in the restaurant?,AskMenuDetails
+Do you offer kidsâ€™ meals on the menu?,AskMenuDetails
+Can I customize my order from the menu?,AskMenuDetails
+Are there any seasonal specials currently available?,AskMenuDetails
+What beverages do you serve in the restaurant?,AskMenuDetails
+Do you have a fixed menu for group bookings?,AskMenuDetails
+Can you recommend some starters from the menu?,AskMenuDetails
+Are there any dishes with low calorie counts?,AskMenuDetails
+Do you serve halal-certified meat dishes?,AskMenuDetails
+Is there a dessert section on the menu?,AskMenuDetails
+Are there any chefâ€™s specials for dinner?,AskMenuDetails
+Can you provide a wine pairing for the menu items?,AskMenuDetails
+Are there discounts on specific menu items today?,AskMenuDetails
+Do you serve breakfast items all day?,AskMenuDetails
+Are there any vegetarian appetizers available?,AskMenuDetails
+Do you offer sample platters for large groups?,AskMenuDetails
+What are your options for seafood lovers?,AskMenuDetails
+Are there spicy dishes available on the menu?,AskMenuDetails
+Can you suggest a complete meal combination?,AskMenuDetails
+What are the serving sizes of your main courses?,AskMenuDetails
+Do you have options for lactose-intolerant guests?,AskMenuDetails
+What dishes do you offer?,AskMenuDetails
+Can I change my reservation from 7 PM to 8 PM?,ModifyBooking
+I need to add two more people to my reservation.,ModifyBooking
+Can I modify my booking to include a request for a vegan menu?,ModifyBooking
+Can I shift my reservation to another date?,ModifyBooking
+Iâ€™d like to change my booking time to an earlier slot.,ModifyBooking
+Is it possible to update my reservation with a special request?,ModifyBooking
+Can you move my booking from the rooftop section to the main dining area?,ModifyBooking
+Can I add a request for outdoor seating to my reservation?,ModifyBooking
+I need to update the number of guests from four to six.,ModifyBooking
+Can I modify my reservation to include a child seat?,ModifyBooking
+Can you shift my booking to a quieter section of the restaurant?,ModifyBooking
+Is it possible to change my dinner reservation to a lunch one?,ModifyBooking
+I need to change the date for my booking to next Friday.,ModifyBooking
+Can you update my booking with a request for a gluten-free meal?,ModifyBooking
+I want to change the time for my reservation to 6 PM.,ModifyBooking
+Can you add a request for anniversary decorations to my booking?,ModifyBooking
+Can I include a pet in my outdoor reservation?,ModifyBooking
+I want to update my booking,ModifyBooking
+Can you change my booking to a private dining room?,ModifyBooking
+Can I update my booking to request minimal noise for a meeting?,ModifyBooking
+I need to modify my reservation to a larger table for eight.,ModifyBooking
+Can you shift my reservation from the garden view to the city view?,ModifyBooking
+Iâ€™d like to change my booking to a buffet option if available.,ModifyBooking
+Can you move my reservation from Saturday to Sunday?,ModifyBooking
+Can you change the time of my booking to 1 PM for lunch?,ModifyBooking
+Can I update my reservation to include wheelchair-accessible seating?,ModifyBooking
+I need to cancel my reservation for this evening.,CancelBooking
+Can you cancel my table booking for four tomorrow?,CancelBooking
+Iâ€™d like to cancel my reservation at your rooftop section.,CancelBooking
+Can I cancel my booking for lunch on Friday?,CancelBooking
+Please cancel the dinner reservation I made for eight guests.,CancelBooking
+Is it possible to cancel my reservation without a penalty?,CancelBooking
+I need to cancel my booking for two people next Monday.,CancelBooking
+Can you confirm the cancellation of my reservation for Saturday?,CancelBooking
+I want to cancel my outdoor seating reservation for Sunday.,CancelBooking
+Please cancel my table for four at the main dining area.,CancelBooking
+Can I cancel my brunch reservation for tomorrow morning?,CancelBooking
+Please cancel the reservation under my name for tonight.,CancelBooking
+Iâ€™d like to cancel my table booking for a group of six.,CancelBooking
+Can you cancel my reservation for high tea on Friday?,CancelBooking
+Please cancel my dinner booking for two this weekend.,CancelBooking
+I need to cancel my private dining room reservation for next Wednesday.,CancelBooking
+Can I cancel the booking for our business meeting on Thursday?,CancelBooking
+Iâ€™d like to cancel my reservation for a family dinner on Saturday.,CancelBooking
+Please cancel my table booking for brunch this Sunday.,CancelBooking
+Can you remove my reservation for the buffet dinner tomorrow?,CancelBooking
+I want to cancel the reservation I made for a romantic dinner.,CancelBooking
+Can you cancel my table booking for lunch at 1 PM?,CancelBooking
+Please cancel my reservation for the garden view table.,CancelBooking
+I need to cancel my rooftop dinner booking for eight people.,CancelBooking
+Can you confirm the cancellation of my booking for Friday night?,CancelBooking
+I want to exit,ExitChat
+I want to leave,ExitChat
+Exit,ExitChat
+Goodbye,ExitChat
+Close the chat,ExitChat
+I'm done,ExitChat
+End the conversation,ExitChat
+Bye,ExitChat
+Quit,ExitChat
+Finish chat,ExitChat
+Log off,ExitChat
+Stop talking,ExitChat
+I'm finished,ExitChat
+Shut down,ExitChat
+End this,ExitChat
+No more,ExitChat
+That's it,ExitChat
+I'm out,ExitChat
+Terminate chat,ExitChat
+Wrap up,ExitChat
+Conclude,ExitChat
+Exit program,ExitChat
+Close this,ExitChat
+Leave chat,ExitChat
+Goodbye for now,ExitChat
+See you later,ExitChat
+Help me out,Help
+I need assistance,Help
+Can you assist me,Help
+How can you help,Help
+What options do I have,Help
+Guide me please,Help
+What are your features,Help
+Can you explain your functions,Help
+Give me a list of your features,Help
+How do I use this,Help
+What are the available commands,Help
+What can you assist with,Help
+Show me what you can do,Help
+Explain your features,Help
+What are your capabilities,Help
+Can you show me the options,Help
+What are your main functions,Help
+Tell me how to use you,Help
+Give me assistance,Help
+How does this work,Help
+I need help using this,Help
+What is this chatbot for,Help

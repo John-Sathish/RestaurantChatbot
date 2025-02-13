@@ -1,0 +1,53 @@
+{
+    "reservations": [
+        {
+            "reservation_id": 9416,
+            "name": "Harry",
+            "date": "23-12-2024",
+            "time": "19:00",
+            "party_size": 20
+        },
+        {
+            "reservation_id": 9932,
+            "name": "John",
+            "date": "20-09-2025",
+            "time": "12:00",
+            "party_size": 20
+        },
+        {
+            "reservation_id": 2991,
+            "name": "John",
+            "date": "13-05-2025",
+            "time": "14:00",
+            "party_size": 5
+        },
+        {
+            "reservation_id": 8003,
+            "name": "John",
+            "date": "23-06-2025",
+            "time": "16:00",
+            "party_size": 4
+        },
+        {
+            "reservation_id": 5056,
+            "name": "John",
+            "date": "14-05-2025",
+            "time": "12:00",
+            "party_size": 3
+        },
+        {
+            "reservation_id": 5100,
+            "name": "John",
+            "date": "26-05-2025",
+            "time": "13:00",
+            "party_size": 4
+        },
+        {
+            "reservation_id": 1489,
+            "name": "John",
+            "date": "12-05-2025",
+            "time": "18:00",
+            "party_size": 3
+        }
+    ]
+}
